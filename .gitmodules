@@ -1,3 +1,4 @@
 [submodule "js"]
 	path = js
 	url = git@github.com:pvaleror/secund.git
+	branch = master
